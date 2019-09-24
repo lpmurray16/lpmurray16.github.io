@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Logan Murray
 
-You can use the [editor on GitHub](https://github.com/lpmurray16/lpmurray16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education/Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
 
 ### Markdown
 
