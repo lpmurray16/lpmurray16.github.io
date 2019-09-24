@@ -10,8 +10,6 @@
 - I can smoke a fat ounce of kush in like a minute.
 - My K/D in CoD is a flat rate of 4.20
 
-```markdown
-Syntax highlighted code block
 
 # "No." - Rosa Parks
 ## "Call me, so I can get it juicy for ya" - Lil Wayne
@@ -23,7 +21,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
