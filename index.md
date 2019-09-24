@@ -1,12 +1,14 @@
 ## Logan Murray
 
-### Education/Experience
-
+### Education
+- Raised by the streets so catch these hands.
 - Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Fucking mad bitches and hoes.
+- I can smoke a fat ounce of kush in like a minute.
+- My K/D in CoD is a flat rate of 4.20
 
 ```markdown
 Syntax highlighted code block
