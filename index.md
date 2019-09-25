@@ -15,12 +15,13 @@
 ## "Call me, so I can get it juicy for ya" - Lil Wayne
 ### "Don't Believe everything you read on the internet." - Abraham Lincoln
 
+#### Things I gotta do:
 1. Fuck bitches
 2. Get money
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
