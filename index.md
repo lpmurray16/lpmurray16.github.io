@@ -19,7 +19,7 @@
 1. Fuck bitches
 2. Get money
 
-[Click Here for a good time](bringvictory.com)
+[Click Here for a good time](www.bringvictory.com)
 
 
 
