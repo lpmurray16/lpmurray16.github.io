@@ -19,7 +19,7 @@
 - SQL
 - Git
 
-## Goals:
+## Goals
 1. Apply my knowledge from the classroom in a project-based setting.
 2. Learn new skills and grow from hands-on experience.
 
