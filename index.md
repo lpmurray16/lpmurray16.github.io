@@ -1,4 +1,5 @@
 
+![Image of Me](http://studentweb.cdm.depaul.edu/~lmurra15/it130/asg2/selfie.jpg)
 
 ## Profile Links
 - [My LinkedIn](http://www.linkedin.com/in/log-mur16)
