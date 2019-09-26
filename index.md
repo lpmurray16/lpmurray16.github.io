@@ -1,5 +1,9 @@
 ## Logan Murray
 
+### Profile Links
+- [My LinkedIn](http://www.linkedin.com/in/log-mur16)
+- [My GitHub](http://www.github.com/lpmurray16)
+
 ### Education
 - Raised by the streets so catch these hands.
 - Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
