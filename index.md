@@ -18,6 +18,10 @@
 - SQL
 - Git
 
+## Goals:
+1. Apply my knowledge from the classroom in a project-based setting.
+2. Learn new skills and grow from hands-on experience.
+
 <hr>
 
 ## Some Quotes
@@ -25,11 +29,7 @@
 - > **"Call me, so I can get it juicy for ya"** - *Lil Wayne*
 - > **"Don't Believe everything you read on the internet."** - *Abraham Lincoln*
 
-### Goals:
-1. Apply my knowledge from the classroom in a project-based setting.
-2. Learn new skills and grow from hands-on experience.
 
-<br>
 <br>
 <hr>
 
@@ -38,4 +38,4 @@
 - **Email:** lpmurray16@gmail.com
 - **Cell Number** (815) 527-1977
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
