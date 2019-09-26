@@ -1,15 +1,14 @@
 
-<h1 align="center">Logan Murray</h1>
 
-### Profile Links
+## Profile Links
 - [My LinkedIn](http://www.linkedin.com/in/log-mur16)
 - [My GitHub](http://www.github.com/lpmurray16)
 
-### Education
+## Education
 - Raised by the streets so catch these hands.
 - Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
 
-### Skills
+## Skills
 - Python
 - Java
 - C/C++
@@ -21,7 +20,7 @@
 
 <hr>
 
-### Some Quotes
+## Some Quotes
 - > "No."  - Rosa Parks
 - > "Call me, so I can get it juicy for ya" - Lil Wayne
 - > "Don't Believe everything you read on the internet." - Abraham Lincoln
