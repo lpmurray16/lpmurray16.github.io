@@ -5,8 +5,8 @@
 - [My GitHub](http://www.github.com/lpmurray16)
 
 ## Education
-- Raised by the streets so catch these hands.
-- Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
+- Graduated from Cary-Grove High School in 2014
+- Studying **Computer Science/Software Development** at DePaul University (Expected Graduation March 2020)
 
 ## Skills
 - Python
@@ -25,11 +25,13 @@
 - > **"Call me, so I can get it juicy for ya"** - *Lil Wayne*
 - > **"Don't Believe everything you read on the internet."** - *Abraham Lincoln*
 
-### Things I gotta do:
-1. Fuck bitches
-2. Get money
+### Goals:
+1. Apply my knowledge from the classroom in a project-based setting.
+2. Learn new skills and grow from hands-on experience.
 
-[Click Here for a good time](http://www.bringvictory.com)
+<br>
+<br>
+<hr>
 
 
 # Contact  Information
