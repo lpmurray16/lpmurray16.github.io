@@ -1,3 +1,16 @@
+<style>
+  .column {
+    float: left;
+    width: 50%;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
+
 <h1 align="center">Logan Murray</h1>
 
 ### Profile Links
@@ -8,18 +21,22 @@
 - Raised by the streets so catch these hands.
 - Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
 
-### Skills
+ <div class="row">
+  <div class="column">
+    <h3>Skills</h3>
+      - Python
+  </div>
+  <div class="column"></div>
+</div> 
 
-- Fucking mad bitches and hoes.
-- I can smoke a fat ounce of kush in like a minute.
-- My K/D in CoD is a flat rate of 4.20
 <hr>
+
 ### Some Quotes
 - > "No."  - Rosa Parks
 - > "Call me, so I can get it juicy for ya" - Lil Wayne
 - > "Don't Believe everything you read on the internet." - Abraham Lincoln
 
-#### Things I gotta do:
+### Things I gotta do:
 1. Fuck bitches
 2. Get money
 
