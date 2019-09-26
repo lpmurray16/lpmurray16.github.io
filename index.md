@@ -26,10 +26,8 @@
 [Click Here for a good time](http://www.bringvictory.com)
 
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 # Contact  Information
 - **Email:** lpmurray16@gmail.com
 - **Cell Number** (815) 527-1977
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
