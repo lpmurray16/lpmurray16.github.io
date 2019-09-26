@@ -1,15 +1,3 @@
-<style>
-  .column {
-    float: left;
-    width: 50%;
-  }
-
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-</style>
 
 <h1 align="center">Logan Murray</h1>
 
@@ -21,13 +9,15 @@
 - Raised by the streets so catch these hands.
 - Studying Computer Science/Software Development at DePaul University (Expected Graduation March 2020)
 
- <div class="row">
-  <div class="column">
-    <h3>Skills</h3>
-      - Python
-  </div>
-  <div class="column"></div>
-</div> 
+### Skills
+- Python
+- Java
+- C/C++
+- JavaScript
+- React.js/Node.js
+- HTML
+- SQL
+- Git
 
 <hr>
 
