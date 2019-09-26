@@ -1,4 +1,4 @@
-## Logan Murray
+<h1 align="center">Logan Murray</h1>
 
 ### Profile Links
 - [My LinkedIn](http://www.linkedin.com/in/log-mur16)
@@ -13,7 +13,7 @@
 - Fucking mad bitches and hoes.
 - I can smoke a fat ounce of kush in like a minute.
 - My K/D in CoD is a flat rate of 4.20
-
+<hr>
 ### Some Quotes
 - > "No."  - Rosa Parks
 - > "Call me, so I can get it juicy for ya" - Lil Wayne
