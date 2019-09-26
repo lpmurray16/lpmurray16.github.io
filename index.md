@@ -21,9 +21,9 @@
 <hr>
 
 ## Some Quotes
-- > "No."  - Rosa Parks
-- > "Call me, so I can get it juicy for ya" - Lil Wayne
-- > "Don't Believe everything you read on the internet." - Abraham Lincoln
+- > **"No."**  - *Rosa Parks*
+- > **"Call me, so I can get it juicy for ya"** - *Lil Wayne*
+- > **"Don't Believe everything you read on the internet."** - *Abraham Lincoln*
 
 ### Things I gotta do:
 1. Fuck bitches
