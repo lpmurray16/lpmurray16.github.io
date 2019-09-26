@@ -1,5 +1,5 @@
 
-<img src="http://studentweb.cdm.depaul.edu/~lmurra15/it130/asg2/selfie.jpg" style="padding: 10px; width: 100px; height: 150px">
+<img class="selfie" src="http://studentweb.cdm.depaul.edu/~lmurra15/it130/asg2/selfie.jpg">
 
 ## Profile Links
 - [My LinkedIn](http://www.linkedin.com/in/log-mur16)
