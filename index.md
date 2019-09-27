@@ -32,8 +32,8 @@
 ## Some Quotes
 
 - > **"No."** - _Rosa Parks_
-- > **I’ve failed over and over and over again in my life and that is why I succeed.** - _Michael Jordan_
-- > **It does not matter how slowly you go so long as you do not stop.** - _Confucius_
+- > **"I’ve failed over and over and over again in my life and that is why I succeed."** - _Michael Jordan_
+- > **"It does not matter how slowly you go so long as you do not stop."** - _Confucius_
 
 <br>
 <hr>
