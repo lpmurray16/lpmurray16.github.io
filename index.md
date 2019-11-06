@@ -1,4 +1,4 @@
-<img class="selfie" src="http://studentweb.cdm.depaul.edu/~lmurra15/editedProfpic.png">
+<img class="selfie" src="http://studentweb.cdm.depaul.edu/~lmurra15/editedProfpic%20%282%29.png">
 
 ## Profile Links
 
