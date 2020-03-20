@@ -8,17 +8,17 @@
 ## Education
 
 - Graduated from Cary-Grove High School in 2014
-- Studying **Computer Science/Software Development** at DePaul University (Expected Graduation March 2020)
+- Bachelors in Computer Science, Software Development
 
 ## Skills
 
 - Python
 - Java
+- PL/SQL
 - C/C++
 - JavaScript
-- React.js/Node.js
+- React/Node.js
 - HTML
-- SQL
 - Git
 
 ## Goals
