@@ -8,7 +8,7 @@
 ## Education
 
 - Graduated from Cary-Grove High School in 2014
-- Bachelors in Computer Science, Software Development
+- Bachelors in Computer Science, Software Development from DePaul Univeristy 2020
 
 ## Skills
 
@@ -31,7 +31,6 @@
 
 ## Some Quotes
 
-- > **"No."** - _Rosa Parks_
 - > **"I’ve failed over and over and over again in my life and that is why I succeed."** - _Michael Jordan_
 - > **"It does not matter how slowly you go so long as you do not stop."** - _Confucius_
 
